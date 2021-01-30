@@ -13,7 +13,7 @@ You'll need Node.js version 12 or 14 to run the site. To install Node.js, [downl
 Once you've installed Node.js (which includes the popular `npm` package manager), open Terminal and run the following:
 
 ```sh
-git clone https://github.com/github/docs
+git clone https://beisat/github/docs
 cd docs
 npm ci
 npm run build
